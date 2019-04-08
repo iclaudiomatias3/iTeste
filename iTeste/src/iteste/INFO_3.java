@@ -11,4 +11,5 @@ package iteste;
  */
 public class INFO_3 {
     String nome = "3 INFORMÁTICA 2019";
+    String besta = "";
 }
